@@ -10,6 +10,7 @@ public enum FoodChoice {
     SPANISH("spicy"),
     DUTCH("mysterious");
 //some comment
+    //some comment 2
     private String description;
 
     FoodChoice(String description) {
