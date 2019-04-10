@@ -9,7 +9,7 @@ public enum FoodChoice {
     FRENCH("sweet desserts"),
     SPANISH("spicy"),
     DUTCH("mysterious");
-
+//some comment
     private String description;
 
     FoodChoice(String description) {
